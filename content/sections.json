@@ -1,0 +1,34 @@
+{
+    "sections": [
+        {
+            "title": "Getting Started",
+            "subsections": [
+                {
+                    "title": "Introduction",
+                    "file": "index.md"
+                },
+                {
+                    "title": "Quick Start",
+                    "file": "example.html"
+                }
+            ]
+        },
+        {
+            "title": "Social Infrastructure Database Navigator",
+            "subsections": [
+                {
+                    "title": "Overview",
+                    "file": "SID Database.md"
+                },
+                {
+                    "title": "React Frontend",
+                    "file": "React Frontend.md"
+                },
+                {
+                    "title": "Express Backend",
+                    "file": "Express Backend.md"
+                }
+            ]
+        }
+    ]
+} 
